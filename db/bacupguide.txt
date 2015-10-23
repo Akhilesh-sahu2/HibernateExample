@@ -1,0 +1,7 @@
+For export
+C:\Program Files (x86)\MySQL\MySQL Server 5.1\bin>mysqldump -u root -p hibernate
+example > "F:\git\HibernateExample\db\hibernateexample.sql"
+
+for import
+
+mysql -u root -p hibernateexample < "F:\git\HibernateExample\db\hibernateexample.sql"
