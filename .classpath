@@ -22,5 +22,6 @@
 	<classpathentry kind="lib" path="F:/git/HibernateExample/lib/jpa/hibernate-entitymanager-4.3.8.Final.jar"/>
 	<classpathentry kind="lib" path="F:/git/HibernateExample/lib/envers/hibernate-envers-4.3.8.Final.jar"/>
 	<classpathentry kind="lib" path="F:/git/HibernateExample/lib/mysql-connector-java-5.1.31-bin.jar"/>
+	<classpathentry kind="lib" path="F:/git/HibernateExample/lib/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
